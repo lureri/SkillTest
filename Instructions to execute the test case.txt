@@ -1,0 +1,13 @@
+To Execute the Test Case Using an IDE:
+1- Open the project in a JavaScript-based IDE (e.g., VS Code).
+2- Open the integrated terminal within the IDE.
+3- In the terminal, type the command: "npm test".
+4- Press Enter to run the test.
+5- In the Cypress window, click on "E2E Testing".
+6- Select a browser of your choice and click "Start E2E Testing".
+7- Once the browser launches, click on the test case to execute it.
+
+To Execute the Test Case Headlessly:
+1- Open the terminal in the project directory.
+2- Type the command: "npx cypress run".
+3- Press Enter to start the test.
